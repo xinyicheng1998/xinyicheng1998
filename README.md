@@ -37,6 +37,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   ![Junit5](https://img.shields.io/badge/-Junit5-333333?style=flat&logo=Junit5)
+  ![pytest](https://img.shields.io/badge/-pytest-333333?style=flat&logo=pytest)
   ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=Gradle)
   ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
