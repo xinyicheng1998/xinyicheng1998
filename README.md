@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Northeastern University.
-- 🌱 &nbsp; Studied Business English at Zhongnan University of Economics and Law and Computer Science at Wuhan University.
+- 🌱 &nbsp; Studied Computer Science at Wuhan University and Business English at Zhongnan University of Economics and Law .
 - 💼 &nbsp; Looking for SDE internship/co-op opportunities.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
