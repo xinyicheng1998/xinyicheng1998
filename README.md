@@ -29,8 +29,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-  #![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  #![Angular.js](https://img.shields.io/badge/-Angular.js-333333?style=flat&logo=Angular.js)
+<!--
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+  ![Angular.js](https://img.shields.io/badge/-Angular.js-333333?style=flat&logo=Angular.js)
+-->
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
