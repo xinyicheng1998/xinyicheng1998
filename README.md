@@ -10,7 +10,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Certificate &nbsp;
+- Certificate &nbsp; <br/>
   AWS Certified Cloud Practitioner
 - Languages &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -29,10 +29,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-<!--
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Angular.js](https://img.shields.io/badge/-Angular.js-333333?style=flat&logo=Angular.js)
--->
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
@@ -49,7 +45,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-- Developer Tools &nbsp;
+- Developer Tools &nbsp; 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ)
   ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=CLion)
