@@ -10,9 +10,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Certificate &nbsp; <br/>
+- Certificate <br/>
   AWS Certified Cloud Practitioner
-- Languages &nbsp;
+- Languages <br/>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -24,7 +24,7 @@
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=B125EA)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=FF7B54)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0075BA)
-- Frameworks/Tools/Libraries &nbsp;
+- Frameworks/Tools/Libraries <br/>
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -39,13 +39,13 @@
   ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- Cloud/Database &nbsp;
+- Cloud/Database <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-- Developer Tools &nbsp; 
+- Developer Tools <br/>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ)
   ![CLion](https://img.shields.io/badge/-CLion-333333?style=flat&logo=CLion)
