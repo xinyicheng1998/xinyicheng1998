@@ -84,8 +84,8 @@
 <h3> 🤝🏻 &nbsp;Projects </h3>
 
 - Higher Education Search & Match: a data-driven web application in Java Server Pages (JSP), delivering CRUD operations, including creating, reading, updating, and deleting universities, persons, rankings, and comments
-- DevConnector Web Application: MERN web application with CRUD operations, including registering and logging in, adding details of personal profiles, posting discussions, likes, and comments on various posts in the Dev community
-- Project Management Web Application: full stack application allows users to log in, add, modify, delete projects, with React as frontend and Spring Boot as backend 
+- Developers Community Web App: MERN web application with CRUD operations, including registering and logging in, adding details of personal profiles, posting discussions, likes, and comments on various posts in the Dev community
+- Project Management Web App: full stack application allows users to log in, add, modify, delete projects, with React as frontend and Spring Boot as backend 
 - To-do Command Line Application: used MVC architecture, singleton patterns, builder pattern, and filter pattern, implemented CRUD operations for to-do tasks in CSV format in Java and conducted unit testing with JUnit5 and more than 90% code coverage
 - Draughts: Game in python, using turtle to draw the checkerboard and pieces
 
