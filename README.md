@@ -83,6 +83,8 @@
 <!-- <br/> -->
 <h3> 🤝🏻 &nbsp;Projects </h3>
 
+
+- Puzzial: Puzzial is a puzzle game app built using Flutter. The app allows users to solve puzzles by dragging and dropping puzzle pieces on a grid simultaneously for a maximum of two players.
 - Higher Education Search & Match: a data-driven web application in Java Server Pages (JSP), delivering CRUD operations, including creating, reading, updating, and deleting universities, persons, rankings, and comments
 - Developers Community Web App: MERN web application with CRUD operations, including registering and logging in, adding details of personal profiles, posting discussions, likes, and comments on various posts in the Dev community
 - Project Management Web App: full stack application allows users to log in, add, modify, delete projects, with React as frontend and Spring Boot as backend 
